@@ -10,4 +10,4 @@ meu nome é Mariana de Araujo Antonio
 
   marianaaraujoantonio2904@gmail.com
 
-  1[](https://media.tenor.com/WSRY6fAulMgAAAAi/garfield-monday.gif)
+  ![](https://media.tenor.com/WSRY6fAulMgAAAAi/garfield-monday.gif)
